@@ -29,6 +29,6 @@ Extra
 
 GitHub Pages
 
---> https://
+--> https://https://github.com/vitorhugoo2/decodificador-one.git
 
 Feito por Vitor Hugo 
