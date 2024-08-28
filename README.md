@@ -31,4 +31,7 @@ GitHub Pages
 
 --> https://https://github.com/vitorhugoo2/decodificador-one.git
 
+SITE COM DECODIFICADOR
+https://decodificador-one-ruddy.vercel.app
+
 Feito por Vitor Hugo 
